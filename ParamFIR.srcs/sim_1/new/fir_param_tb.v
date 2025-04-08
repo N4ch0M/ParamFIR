@@ -13,7 +13,7 @@ module fir_param_tb;
     // --------------------------------------------------------------- //    
     parameter   NBits           = 16;                       //! Number of bits 
     parameter   NCoeff          = 14;                       //! Number of coefficients
-    parameter   Coeff_File      = "M14_coefficients.dat"    //! Coefficients filename
+    parameter   Coeff_File      = "M14_coefficients.dat";   //! Coefficients filename
     parameter   NData           = 1000;                     //! Number of data samples
     parameter   CLK_PERIOD      = 20;  											//! Clock period in ns
 

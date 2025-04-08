@@ -1,7 +1,8 @@
 //! @title Testbench FIR filter
 //! @author J. I. Morales (morales.juan.ignacio@gmail.com)
 //! @version 1.1
-//! @date Testbench for the interpolation FIR filter with parameterized number of coefficients, noisy input data 
+//! @date 08/04/25
+//! @brief Testbench for the interpolation FIR filter with parameterized number of coefficients, noisy input data 
 
 `timescale 1ns / 1ps
 
@@ -12,9 +13,9 @@ module firx2_param_tb;
     // --------------------------------------------------------------- //    
     parameter   NBits           = 16;                       //! Number of Bits        
     parameter   NCoeff          = 81;                       //! Number of Coefficients 
-    parameter   Coeff_File      = "M14_coefficients.dat"    //! Coefficients filename          
+    parameter   Coeff_File      = "M81_coefficients.dat";   //! Coefficients filename          
     parameter   NData           = 1000;                     //! Number of data samples                       
-    parameter   CLK_PERIOD      = 20;                       //! Clock period in ns
+    parameter   CLK_PERIOD      = 20;                       //! Clock period in ns (f=50MHz)
 
     // --------------------------------------------------------------- //
     //******************** Register Declarations **********************//

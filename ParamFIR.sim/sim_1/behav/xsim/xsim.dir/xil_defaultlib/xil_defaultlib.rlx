@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+D:/Documentos/Xilinx/FILTROS/ParamFIR/ParamFIR.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+D:/Documentos/Xilinx/FILTROS/ParamFIR/ParamFIR.srcs/sim_1/new/fir_param_tb.v,1744142943,verilog,,,,fir_param_tb,,,,,,,,
+D:/Documentos/Xilinx/FILTROS/ParamFIR/ParamFIR.srcs/sim_1/new/firx2_param_tb.v,1744143230,verilog,,,,firx2_param_tb,,,,,,,,
+D:/Documentos/Xilinx/FILTROS/ParamFIR/ParamFIR.srcs/sources_1/new/fir_param.v,1744141168,verilog,,D:/Documentos/Xilinx/FILTROS/ParamFIR/ParamFIR.srcs/sim_1/new/fir_param_tb.v,,fir_param,,,,,,,,
+D:/Documentos/Xilinx/FILTROS/ParamFIR/ParamFIR.srcs/sources_1/new/firx2_param.v,1744141397,verilog,,D:/Documentos/Xilinx/FILTROS/ParamFIR/ParamFIR.srcs/sim_1/new/firx2_param_tb.v,,firx2_param,,,,,,,,
